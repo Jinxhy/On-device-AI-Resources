@@ -56,6 +56,11 @@ On-device AI enables performing inference with models directly on a device (e.g.
   [[code]](https://github.com/zhoumingyi/REOM)\
   venue: *IEEE/ACM 46th International Conference on Software Engineering (ICSE 2024)*
 
+- SODA: Protecting Proprietary Information in On-Device Machine Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2312.15036)
+  [[code]](https://github.com/umassos/private-ondevice-ml)\
+  venue: *The Eighth ACM/IEEE Symposium on Edge Computing (SEC 2023)*
+
 - MirrorNet: A TEE-Friendly Framework for Secure On-Device DNN Inference.
   [[pdf]](https://arxiv.org/pdf/2311.09489)\
   venue: *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD 2023)*
