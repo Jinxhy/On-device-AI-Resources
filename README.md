@@ -48,7 +48,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 | Title | Year | Code |
 |-------|------|------|
 | [ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments](https://www.ndss-symposium.org/wp-content/uploads/2025-449-paper.pdf) | 2025 | [Code](https://github.com/yonsei-sslab/asgard) |
-| [Don't Interrupt Me – A Large-Scale Study of On-Device Permission Prompt Quieting in Chrome](https://www.ndss-symposium.org/wp-content/uploads/2024-108-paper.pdf) | 2025 | - |
+| [Don't Interrupt Me – A Large-Scale Study of On-Device Permission Prompt Quieting in Chrome](https://www.ndss-symposium.org/wp-content/uploads/2024-108-paper.pdf) | 2025 | – |
 
 ---
 
