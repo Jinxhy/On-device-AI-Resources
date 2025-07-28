@@ -12,6 +12,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 - No cost: paying for cloud computing cycles is not needed.
 
 ## News :mega:
+28/07/2025: The repository is upgraded with more clearer structure!\
 28/07/2025: The repository is back to update now!\
 22/11/2022: The On-device AI Resources repository is first announced!!!
 
