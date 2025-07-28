@@ -15,6 +15,92 @@ On-device AI enables performing inference with models directly on a device (e.g.
 28/07/2025: The repository is back to update now!\
 22/11/2022: The On-device AI Resources repository is first announced!!!
 
+### IEEE S&P
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| No Privacy Left Outside: Insecurity of TEE-Shielded DNN Partition | 2024 | [PDF](https://arxiv.org/pdf/2310.07152) | [Code](https://github.com/ziqi-zhang/TEESlice-artifact) |
+| ShadowNet: Secure and Efficient On-device Inference | 2023 | [PDF](https://arxiv.org/pdf/2011.05905.pdf) | – |
+
+### USENIX Security
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| THEMIS: Practical IP Protection for Post-Deployment On-Device DL Models | 2025 | [PDF](https://arxiv.org/pdf/2503.23748) | [Code](https://github.com/Jinxhy/THEMIS) |
+| SoK: On-Device ML Model Extraction – Bridging Research and Practice | 2024 | [PDF](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan) | [Code](https://github.com/sys-ris3/ML_Extraction_Sok) |
+| Mind Your Weight(s): Study on Insecure Model Protection in Mobile Apps | 2021 | [PDF](https://www.usenix.org/system/files/sec21-sun-zhichuang.pdf) | [Code](https://github.com/RiS3-Lab/ModelXRay) |
+
+---
+
+### CCS
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| Understanding Real-World Threats to DL in Android Apps | 2022 | [PDF](https://arxiv.org/pdf/2209.09577.pdf) | [Code](https://github.com/Advdroid/advdroid-pro) |
+
+---
+
+### NDSS
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| ASGARD: Protecting On-Device DNNs with Virtualization-Based TEEs | 2025 | [PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-449-paper.pdf) | [Code](https://github.com/yonsei-sslab/asgard) |
+
+---
+
+### ICSE
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| DEMISTIFY: On-device Model Stealing & Reuse Detection | 2024 | [PDF](https://bruceqczhao.github.io/assets/icse24/ICSE24b.pdf) | [Code](https://github.com/MGYN/DeMistify) |
+| Investigating White-Box Attacks for On-Device Models | 2024 | [PDF](https://arxiv.org/pdf/2402.05493) | [Code](https://github.com/zhoumingyi/REOM) |
+| DeepPayload: Black-box Backdoor via Neural Payload Injection | 2021 | [PDF](https://arxiv.org/pdf/2101.06896.pdf) | [Code](https://github.com/yuanchun-li/DeepPayload) |
+| Deployment Faults in DL-based Mobile Apps | 2021 | [PDF](https://arxiv.org/pdf/2101.04930.pdf) | [Code](https://github.com/chenzhenpeng18/icse2021) |
+| Robustness of On-device Models: Adversarial Attack to DL in Android Apps | 2021 (SEIP) | [PDF](https://arxiv.org/pdf/2101.04401.pdf) | [Code](https://github.com/Jinxhy/AppAIsecurity) |
+| NNStreamer: Agile Development of On-Device AI Systems | 2021 (SEIP) | [PDF](https://arxiv.org/pdf/2101.06371.pdf) | [Code](https://github.com/nnstreamer/nnstreamer) |
+
+---
+
+### ASE
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| DynaMO: Protecting Mobile DL Models via Obfuscated Operators | 2024 | [PDF](https://arxiv.org/pdf/2410.15033) | [Code](https://github.com/zhoumingyi/DynaMO) |
+
+---
+
+### FSE
+
+| *(No entries yet)* | – | – | – |
+
+---
+
+### TIFS
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| Smart App Attack: Hacking DL Models in Android Apps | 2022 | [PDF](https://arxiv.org/pdf/2204.11075.pdf) | [Code](https://github.com/Jinxhy/SmartAppAttack) |
+
+---
+
+### TDSC
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| Quantization Backdoors to DL Frameworks | 2023 | [PDF](https://arxiv.org/pdf/2108.09187) | [Code](https://github.com/quantization-backdoor/quantization-backdoor) |
+
+---
+
+### TOSEM
+
+| Title | Year | PDF | Code |
+|-------|------|-----|------|
+| A First Look at On-device Models in iOS Apps | 2023 | [PDF](https://dl.acm.org/doi/pdf/10.1145/3617177) | [Code](https://github.com/huhanGitHub/iOS-App-database) |
+
+---
+
+### TSE
+
 ## On-device AI Security and Privacy
 - ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments.
   [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2025-449-paper.pdf)
