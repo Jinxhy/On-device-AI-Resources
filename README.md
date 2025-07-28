@@ -58,7 +58,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 |-------|------|------|
 | [DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps](https://bruceqczhao.github.io/assets/icse24/ICSE24b.pdf) | 2024 | [Code](https://github.com/MGYN/DeMistify) |
 | [Investigating White-Box Attacks for On-Device Models](https://arxiv.org/pdf/2402.05493) | 2024 | [Code](https://github.com/zhoumingyi/REOM) |
-| [A New Frontier of AI: On‑Device AI Training and Personalization](https://arxiv.org/pdf/2206.04688) | 2024 (SEIP) | [Code](https://github.com/nnstreamer/nntrainer) |
+| [A New Frontier of AI: On-Device AI Training and Personalization](https://arxiv.org/pdf/2206.04688) | 2024 (SEIP) | [Code](https://github.com/nnstreamer/nntrainer) |
 | [Toward Among‑Device AI from On‑Device AI with Stream Pipelines](https://arxiv.org/pdf/2201.06026) | 2022 (SEIP) | [Code](https://github.com/nnstreamer/nnstreamer-edge) |
 | [DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection](https://arxiv.org/pdf/2101.06896.pdf) | 2021 | [Code](https://github.com/yuanchun-li/DeepPayload) |
 | [An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications](https://arxiv.org/pdf/2101.04930.pdf) | 2021 | [Code](https://github.com/chenzhenpeng18/icse2021) |
