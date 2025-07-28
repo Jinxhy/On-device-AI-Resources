@@ -38,6 +38,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 
 | Title | Year | Code |
 |-------|------|------|
+| [TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE](https://arxiv.org/pdf/2505.22735) | 2025 | [Code](https://github.com/suntong30/TensorShield) |
 | [Understanding Real-world Threats to Deep Learning Models in Android Apps](https://arxiv.org/pdf/2209.09577.pdf) | 2022 | [Code](https://github.com/Advdroid/advdroid-pro) |
 
 ---
@@ -47,6 +48,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 | Title | Year | Code |
 |-------|------|------|
 | [ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments](https://www.ndss-symposium.org/wp-content/uploads/2025-449-paper.pdf) | 2025 | [Code](https://github.com/yonsei-sslab/asgard) |
+| [Don't Interrupt Me – A Large-Scale Study of On-Device Permission Prompt Quieting in Chrome](https://www.ndss-symposium.org/wp-content/uploads/2024-108-paper.pdf) | 2025 | - |
 
 ---
 
