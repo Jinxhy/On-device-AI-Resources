@@ -1,5 +1,5 @@
 # On-device AI Resources
-This GitHub repository curates a collection of **on-device ML/DL** papers with a particular focus on **security** and **software engineering**. It includes publications from top-ti security conferences (**IEEE S&P**, **USENIX Security**, **ACM CCS**, and **NDSS**), leading software engineering conferences (**ICSE**, **FSE**, **ASE**), and high-impact journals ( **TIFS**, **TDSC**, **TOSEM**, and **TSE**).
+This GitHub repository curates a collection of **on-device ML/DL** papers with a particular focus on **security** and **software engineering**. It includes publications from top-ti security conferences (**IEEE S&P**, **USENIX Security**, **ACM CCS**, and **NDSS**), leading software engineering conferences (**ICSE**, **FSE**, **ASE**), and high-impact journals (**TIFS**, **TDSC**, **TOSEM**, and **TSE**).
 
 We will keep maintaining this list in a daily or weekly manner. :wink:
 
