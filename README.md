@@ -14,7 +14,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 ## News :mega:
 28/07/2025: The repository is back to update now!\
 22/11/2022: The On-device AI Resources repository is first announced!!!
-
+-
 ### IEEE Symposium on Security and Privacy (S&P)
 
 | Title | Year | Code |
