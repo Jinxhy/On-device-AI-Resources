@@ -55,7 +55,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 | DEMISTIFY: On-device Model Stealing & Reuse Detection | 2024 | [PDF](https://bruceqczhao.github.io/assets/icse24/ICSE24b.pdf) | [Code](https://github.com/MGYN/DeMistify) |
 | Investigating White-Box Attacks for On-Device Models | 2024 | [PDF](https://arxiv.org/pdf/2402.05493) | [Code](https://github.com/zhoumingyi/REOM) |
 | DeepPayload: Black-box Backdoor via Neural Payload Injection | 2021 | [PDF](https://arxiv.org/pdf/2101.06896.pdf) | [Code](https://github.com/yuanchun-li/DeepPayload) |
-| Deployment Faults in DL-based Mobile Apps | 2021 | [PDF](https://arxiv.org/pdf/2101.04930.pdf) | [Code](https://github.com/chenzhenpeng18/icse2021) |
+| An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications | 2021 | [PDF](https://arxiv.org/pdf/2101.04930.pdf) | [Code](https://github.com/chenzhenpeng18/icse2021) |
 | Robustness of On-device Models: Adversarial Attack to DL in Android Apps | 2021 (SEIP) | [PDF](https://arxiv.org/pdf/2101.04401.pdf) | [Code](https://github.com/Jinxhy/AppAIsecurity) |
 | NNStreamer: Agile Development of On-Device AI Systems | 2021 (SEIP) | [PDF](https://arxiv.org/pdf/2101.06371.pdf) | [Code](https://github.com/nnstreamer/nnstreamer) |
 
