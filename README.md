@@ -27,7 +27,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 | Title | Year | PDF | Code |
 |-------|------|-----|------|
 | THEMIS: Practical IP Protection for Post-Deployment On-Device DL Models | 2025 | [PDF](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-373-huang-yujin.pdf) | [Code](https://github.com/Jinxhy/THEMIS) |
-| SoK: On-Device ML Model Extraction – Bridging Research and Practice | 2024 | [PDF](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan) | [Code](https://github.com/sys-ris3/ML_Extraction_Sok) |
+| SoK: On-Device ML Model Extraction – Bridging Research and Practice | 2024 | [PDF](https://www.usenix.org/system/files/usenixsecurity24-nayan.pdf) | [Code](https://github.com/sys-ris3/ML_Extraction_Sok) |
 | Mind Your Weight(s): Study on Insecure Model Protection in Mobile Apps | 2021 | [PDF](https://www.usenix.org/system/files/sec21-sun-zhichuang.pdf) | [Code](https://github.com/RiS3-Lab/ModelXRay) |
 
 ---
