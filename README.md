@@ -94,6 +94,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 
 | Title | Year | Code |
 |-------|------|------|
+| [Typhon Unleashed: Practical Adversarial Weight Attacks against On-Device Deep Learning Models](https://ieeexplore.ieee.org/abstract/document/11407485) | 2026 | |
 | [Quantization Backdoors to Deep Learning Commercial Frameworks](https://arxiv.org/pdf/2108.09187) | 2023 | [Code](https://github.com/quantization-backdoor/quantization-backdoor) |
 
 ---
