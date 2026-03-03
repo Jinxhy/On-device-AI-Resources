@@ -20,6 +20,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 
 | Title | Year | Code |
 |-------|------|------|
+| [CIPHERSTEAL: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels](https://ieeexplore.ieee.org/document/11023493) | 2025 | [Code](https://github.com/Yuanyuan-Yuan/CipherSteal) |
 | [TSQP: Safeguarding Real-Time Inference for Quantization Neural Networks on Edge Devices](https://ieeexplore.ieee.org/document/11023493) | 2025 | [Code](https://github.com/D1aoBoomm/TSQP) |
 | [No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML](https://arxiv.org/pdf/2310.07152) | 2024 | [Code](https://github.com/ziqi-zhang/TEESlice-artifact) |
 | [ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks](https://arxiv.org/pdf/2011.05905.pdf) | 2023 | – |
