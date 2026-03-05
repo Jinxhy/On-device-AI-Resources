@@ -32,6 +32,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 | Title | Year | Code |
 |-------|------|------|
 | [THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models](https://arxiv.org/pdf/2503.23748) | 2025 | [Code](https://github.com/Jinxhy/THEMIS) |
+| [Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms](https://www.usenix.org/system/files/usenixsecurity25-wang-pengli.pdf) | 2025 | [Code](https://github.com/qsxltss/Game-of-Arrows) |
 | [SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan) | 2024 | [Code](https://github.com/sys-ris3/ML_Extraction_Sok) |
 | [Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps](https://www.usenix.org/system/files/sec21-sun-zhichuang.pdf) | 2021 | [Code](https://github.com/RiS3-Lab/ModelXRay) |
 
